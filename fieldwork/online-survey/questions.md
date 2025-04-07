@@ -21,13 +21,13 @@ Please inform your personal data below.
 
 ## Survey questions (open-ended, all optional, public)
 
-1. Please describe in what ways your activities relate to the reuse of materials, be it through repairs, upcycling, repurposing, re-circulation or any other kind of practice. Are any or all of those activities typicaly associated with a recognised profession?
+1. Please describe in what ways your activities relate to the reuse of materials, be it through repairs, upcycling, repurposing, re-circulation or any other kind of practice. Are any or all of those activities typically associated with a recognised profession?
 
 2. In what context do these activities take place? Do they happen regularly? What kinds of people, groups, or organisations are involved?
 
 3. What kinds of materials do you handle in those activities? What is their origin, typically? Who brings them in?
 
-4. How is the potential reuse of the materials assessed? How do you decide which goods and objects deserve to be reused, and which can already be discarded? Do you rely on online resources, prior experience, interaction with other people, or any other relevant source of information? What factors are taken into account (for instance potential resale price, social value, community need, enviromnental impact mitigation, and others). Please describe typical processes, and feel free to add anecdotal examples.
+4. How is the potential reuse of the materials assessed? How do you decide which goods and objects deserve to be reused, and which can already be discarded? Do you rely on online resources, prior experience, interaction with other people, or any other relevant source of information? What factors are taken into account (for instance potential resale price, social value, community need, environmental impact mitigation, and others). Please describe typical processes, and feel free to add anecdotal examples.
 
 5. What happens to the goods and materials deemed potentially usable or valuable? Are they cleaned, repaired, stored, combined? Examples are welcome here too.
 

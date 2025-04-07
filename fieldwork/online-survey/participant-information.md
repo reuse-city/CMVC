@@ -33,7 +33,7 @@ The information acquired by the researcher team will help GIG create a curriculu
 
 Initially, the information you submit through the online form below will be handled solely by the lead researcher. You have the option of informing your real name, using a pseudonym at your choice, or allowing the researcher to pick a random pseudonym. Once those options are applied, all your other answers except for *contact details* and the optional *notes for the researcher* will be accessed by the research team. Selected parts deemed relevant for discussion can be shared with other participants.
 
-Quotes and excerpts, as well as analyses of the research data – either literal or paraphrased – may be featured for research purposes in outputs such as articles, papers, maps, diagrams, open online datasets, and other lawful uses. Your choice whether or not to be identified will be respected in any such outputs.
+Quotes and excerpts, as well as analyses of the research data – either literal or paraphrased – may be featured for research purposes in outputs such as articles, papers, maps, diagrams, open online datasets, and other lawful uses. Your choice whether to be identified will be respected in any such outputs.
 
 You will be able to access the research outputs in the project repository at https://github.com/reuse-city/CMVC, or request the researcher to share with you any outcomes by e-mail once they are produced.
 
