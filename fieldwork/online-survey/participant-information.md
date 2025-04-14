@@ -1,6 +1,6 @@
 # Online Survey - Participant Information
 
-v 0.1 - 2025-04-07
+v 0.2 - 2025-04-14
 
 You are invited to take part in a citizen science project. Please read the information provided below. This will help you to understand why and how the research is being carried out and what your participation will involve. Feel free to contact us to clarify any questions via the email felipe@globalinnovationgathering.org prior to participating on this survey.
 
@@ -31,15 +31,24 @@ The information acquired by the researcher team will help GIG create a curriculu
 
 ## Will my taking part in this project be kept confidential?
 
-Initially, the information you submit through the online form below will be handled solely by the lead researcher. You have the option of informing your real name, using a pseudonym at your choice, or allowing the researcher to pick a random pseudonym. Once those options are applied, all your other answers except for *contact details* and the optional *notes for the researcher* will be accessed by the research team. Selected parts deemed relevant for discussion can be shared with other participants.
 
-Quotes and excerpts, as well as analyses of the research data – either literal or paraphrased – may be featured for research purposes in outputs such as articles, papers, maps, diagrams, open online datasets, and other lawful uses. Your choice whether to be identified will be respected in any such outputs.
+The survey form is divided in four sections: personal information, demographic information, survey questions, and aditional questions. Each section is clearly identified as whether mandatory or optional, and whether your responses will be kept private or made public:
+
+- Personal information (mandatory, private);
+- Demographic information (optional, public);
+- Survey questions (optional, public);
+- Additional questions (optional, private).
+
+Initially, the private information you submit through the online form will be handled solely by the lead researcher. You have the option of informing your real name, using a pseudonym at your choice, or allowing the researcher to pick a random pseudonym. Once those options are applied, all your other answers except for *personal information* and the optional *additional questions* will be accessed by the research team.
+
+Selected parts of your public responses deemed relevant for discussion may be shared with other participants. Quotes and excerpts, as well as analyses of the research data – either literal or paraphrased – may be featured for research purposes in outputs such as articles, papers, maps, diagrams, open online datasets, and other lawful uses. Your choice on whether to use your name or a pseudonym will be respected in any such outputs.
 
 You will be able to access the research outputs in the project repository at https://github.com/reuse-city/CMVC, or request the researcher to share with you any outcomes by e-mail once they are produced.
 
 ## Data Protection
 
-The 
- data that will be collected and processed in this study are your name and contact details, as well as demographic data such as age group, location, and affiliation.
+The personal data that will be collected and processed in this study are your name and contact details, as well as demographic data such as age group, location, and affiliation.
 
-GIG e.V. asserts that it is lawful for it to process your personal data in this project as the processing is necessary for the performance of a task carried out in the public interest. You fill the form below voluntarily. GIG is the data controller for the personal and/or special categories of personal data processed in this project. If you wish to update, access, erase, or limit the use of your information, please let us know by emailing Dr. Felipe Schmidt Fonseca: felipe@globalinnovationgathering.org. Please note that some of your rights may be limited when information has already been featured in research outputs such as articles, papers and others, but we are happy to discuss that with you.
+GIG e.V. asserts that it is lawful for it to process your personal data in this project as the processing is necessary for the performance of a task carried out in the public interest. You fill the suervey form voluntarily. GIG is the data controller for the personal and/or special categories of personal data processed in this project.
+
+If you wish to update, access, erase, or limit the use of your information, please let us know by emailing Dr. Felipe Schmidt Fonseca: felipe@globalinnovationgathering.org. Please note that some of your rights may be limited when information has already been featured in research outputs such as articles, papers and others, but we are happy to discuss that with you.

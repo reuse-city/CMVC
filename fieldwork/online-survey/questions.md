@@ -1,6 +1,6 @@
 # Online Survey - Questions
 
-v 0.1 - 2025-04-07
+v 0.2 - 2025-04-14
 
 This survey is part of the project Circular Material Valuer Curriculum, conducted by GIG (Global Innovation Gathering e.V.). You are invited to voluntarily fill the form below. Feel free to contact us to clarify any questions via the email felipe@globalinnovationgathering.org prior to participating on this survey. Check the Participant Information sheet to learn more about the project and how your data will be processed upon submission.
 
@@ -21,21 +21,38 @@ Please inform your personal data below.
 
 ## Survey questions (open-ended, all optional, public)
 
-1. Please describe in what ways your activities relate to the reuse of materials, be it through repairs, upcycling, repurposing, re-circulation or any other kind of practice. Are any or all of those activities typically associated with a recognised profession?
+### Section 1: Activity Overview & Context
 
-2. In what context do these activities take place? Do they happen regularly? What kinds of people, groups, or organisations are involved?
+1. Please describe in what ways your activities relate to the assessment and reuse of materials, be it through repairs, upcycling, repurposing, re-circulation or any other kind of practice.
+1. In what context do these activities take place?
+1. How regularly do they happen?
+  - daily/weekly/monthly/other)?
+1. What kinds of people, groups, or organisations are involved?
+1. Are any or all of those activities typically associated with a recognised profession?
 
-3. What kinds of materials do you handle in those activities? What is their origin, typically? Who brings them in?
+### Section 2: Material Handling & Assessment
 
-4. How is the potential reuse of the materials assessed? How do you decide which goods and objects deserve to be reused, and which can already be discarded? Do you rely on online resources, prior experience, interaction with other people, or any other relevant source of information? What factors are taken into account (for instance potential resale price, social value, community need, environmental impact mitigation, and others). Please describe typical processes, and feel free to add anecdotal examples.
+1. What kinds of materials do you handle in those activities?
+1. What is their origin, typically?
+1. Who brings them in?
+1. How is the potential reuse of the materials assessed?
+1. What factors are considered? For instance, potential resale price, social value, community need, environmental impact mitigation, and others.
+1. How do you decide which goods and objects deserve to be reused, and which can already be discarded?
+1. What information/data sources do you use for your work? Please list any online resources, prior experience, interaction with other people, or any other relevant source of information.
 
-5. What happens to the goods and materials deemed potentially usable or valuable? Are they cleaned, repaired, stored, combined? Examples are welcome here too.
+### Section 3: Processes & Tools
 
-6. Do you use particular tools, equipment, or infrastructure to prepare materials for reuse? How do you plan potential reuse over time, balancing the need for storage or material dependencies (spare parts, expert interventions, need to acquire data/information)?
+1. Please describe typical processes. Don't hesitate to add anecdotal examples.
+1. What happens to the goods and materials deemed potentially usable or valuable? What is the process for cleaning, repairing, storage or other forms of reuse? Examples are welcome here too.
+1. Do you use particular tools, equipment, or infrastructure to prepare materials for reuse?
+1. How do you plan potential reuse over time, balancing the need for storage or material dependencies (spare parts, expert interventions, need to acquire data/information)?
 
-7. How is education / training (either formal or informal) for activities such as the ones you perform? How did you learn how to perform such activities? How do other people usually learn? Do you envision gaps in educational resources?
+### Section 4: Information, Education & Resources
 
-8. What are good online sources of reliable data relevant for your activities? Feel free also to mention online sources that are not that reliable, and explain why.
+1. How is education / training (either formal or informal) for activities such as the ones you perform? How did you learn how to perform such activities? How do other people usually learn? Where do you see existing gaps in educational resources?
+1. What are good online sources relevant to learn about your activities? Where can you currently find reliable data to support the work you are doing?
+1. What is missing? What resources do you wish you had available that do currently do not exist or are not affordable?
+
 
 ## Additional questions (optional, private)
 
