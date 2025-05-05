@@ -2,6 +2,8 @@
 
 Main guest: Ugo Vallauri - Restarter Project / Right to Repair Campaign
 
+## Pre-session
+
 Focus:
 
 - Assessment on Restart Parties
@@ -26,3 +28,7 @@ Open-ended questions
 
 - Suggestions for curriculum-building / career outlook
 - Anecdotes
+
+## Notes
+
+- [Felipe's notes](Notes-FF.md)
