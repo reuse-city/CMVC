@@ -1,6 +1,6 @@
 # Online Survey - Questions
 
-v 0.3 - 2025-04-17
+v 0.3.1 - 2025-05-05
 
 This survey is part of the citizen science project Circular Material Valuer Curriculum, by GIG and Reuse City.
 
@@ -8,7 +8,7 @@ You are invited to voluntarily fill the form below. Please don't hesitate to con
 
 Check the Participant Information sheet available here to learn more about the project and how your data will be processed upon submission.
 
-The survey will accept answers until 02/05/2025.
+The survey will accept answers until 31/05/2025.
 
 ## Personal information (mandatory, private)
 
