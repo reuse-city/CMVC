@@ -6,7 +6,7 @@ This survey is part of the citizen science project Circular Material Valuer Curr
 
 You are invited to voluntarily fill the form below. Please don't hesitate to contact us to clarify any questions via the email felipe@globalinnovationgathering.org before participating in this survey.
 
-Check the Participant Information sheet available here to learn more about the project and how your data will be processed upon submission.
+Check the Participant Information sheet available [here](participant-information.md) to learn more about the project and how your data will be processed upon submission.
 
 The survey will accept answers until 31/05/2025.
 
