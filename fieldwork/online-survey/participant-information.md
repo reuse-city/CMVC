@@ -5,7 +5,7 @@ v 0.3 - 2025-04-17
 
 # Material Valuer - Online Survey
 
-As part of the citizen science project [Circular Material Valuer Curriculum](/projects/circular-valuer-curriculum), we are conducting an online survey to learn from people experienced in the activities of Material Valuers.
+As part of the citizen science project [Circular Material Valuer Curriculum](https://wiki.reuse.city/projects/circular-valuer-curriculum), we are conducting an online survey to learn from people experienced in the activities of Material Valuers.
 
 Please read the Participant Information below **before contributing**. If you understand and agree with the following, please submit your answers via [this form](https://forms.gle/16ULM7ydC4sKdmje6). 
 
