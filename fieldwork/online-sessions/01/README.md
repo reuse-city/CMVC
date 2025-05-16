@@ -1,6 +1,13 @@
 # Online session #1
 
-Main guest: Ugo Vallauri - Restarter Project / Right to Repair Campaign
+Main guest:
+
+- Ugo Vallauri - Restarter Project / Right to Repair Campaign
+
+Present also:
+
+- Felipe
+- Mathew
 
 ## Pre-session
 
@@ -31,4 +38,4 @@ Open-ended questions
 
 ## Notes
 
-- [Felipe's notes](Notes-FF.md)
+- [Felipe's notes](01_Notes-FF.md)
