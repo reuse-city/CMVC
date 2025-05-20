@@ -8,9 +8,11 @@ https://hausdermaterialisierung.org/
 
 HdM is composed of a group of organisations that occupy temporarily part of the [Modellprojekt Haus der Statistik](https://hausderstatistik.org/) - a complex of constructions being renovated over the span of some years in the centre of Berlin. Initially, HdM was located in a 2000 sqm building on Berolinastraße. Due to the progress of the block-wide renovations, they were later moved to another area in the same region - basically a combination of containers and semi-covered areas facing Otto-Braun-Straße. Some of the original collectives moved away of HdS because of the transition. The ones that remain still benefit from a subsidised rental that will reportedly be kept for the coming years. The expectation is that the renovation will include building a new "circular house" at the center of the block in the future, but there's not guarantee that the current tenants will be selected to use it. And the rent price is expected to increase by then.
 
-**FF notes on 06.02.2025**
+- Photo selection from [April 2025](2025-04).
 
-I have visited HdM many times over the recent years - both in days with organised activities and regular ones. My sensation is that things were more lively and there was more exchange between collectives in the larger building. However, I already felt before that there was a seasonal aspect to it also. The collectives seemed more integrated originally, probably due to the easier physical connection between areas and the fact that all of them were more protected, but that's an opinion with little evidence. In my last visits, things felt a bit more fragmented. And I heard complaints about how noisy and stressful the traffic is on Otto-Braun-Straße. 
+**FF notes on 06.05.2025**
+
+I have visited HdM many times over the recent years - both in days with organised activities and regular ones. My sensation is that things were more lively and there was more exchange between collectives in the larger building. However, even before that I already felt that there was a seasonal aspect to it. In any case, the collectives seemed more integrated originally, probably due to the easier physical connection between areas and the fact that all of them were more structurally protected, but that's an impression with little evidence. In my last visits, things felt a bit more fragmented. And I heard complaints about how noisy and stressful the traffic is on Otto-Braun-Straße.
 
 ## Baufachfrau
 
@@ -29,7 +31,7 @@ https://fahrart.com/
 
 **FF notes on 06.05.2025**
 
-I was there some weeks ago with a bike that had broken an atypical part. The repair person was very ingenious in disassembling the gearbox and sourcing alternative parts from others he kept as spares. It made me reflect even more on the need to store parts for future use, the timeframe of repairs, and how difficult it must be to keep things organised while moving equipment and materials. An adding to the storage point, during the visit I had made to HdM the day before, I climbed the stairs internal to the weekly market and could see the collection of old/discarded/donated bikes that sits on top of the Fahrart container.
+I was there some weeks ago with a bike that had broken an atypical part. The repair person was very ingenious in disassembling each part up to the gearbox and sourcing alternative parts from others he kept as spares. It made me reflect even more on the need to store parts for future use, the timeframe of repairs, and how difficult it must be to keep things organised while constantly having to move equipment and materials. An adding to the storage point, during the visit I had made to HdM the day before, I climbed the stairs internal to the weekly market and could see the collection of old/discarded/donated bikes that sits on top of the Fahrart container.
 
 
 ## COSUM
