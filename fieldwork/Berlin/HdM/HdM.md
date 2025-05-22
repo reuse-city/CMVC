@@ -14,6 +14,16 @@ HdM is composed of a group of organisations that occupy temporarily part of the 
 
 I have visited HdM many times over the recent years - both in days with organised activities and regular ones. My sensation is that things were more lively and there was more exchange between collectives in the larger building. However, even before that I already felt that there was a seasonal aspect to it. In any case, the collectives seemed more integrated originally, probably due to the easier physical connection between areas and the fact that all of them were more structurally protected, but that's an impression with little evidence. In my last visits, things felt a bit more fragmented. And I heard complaints about how noisy and stressful the traffic is on Otto-Braun-Straße.
 
+**FF's PS on 22.05.2025**
+
+Apparently there is an open call for future occupancy of HdS:
+
+https://raumvergabe.hausderstatistik.org/
+
+---
+
+## Members
+
 ## Baufachfrau
 
 **Website**
