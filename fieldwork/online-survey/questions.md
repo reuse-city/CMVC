@@ -8,8 +8,6 @@ You are invited to voluntarily fill the form below. Please don't hesitate to con
 
 Check the Participant Information sheet available [here](participant-information.md) to learn more about the project and how your data will be processed upon submission.
 
-The survey will accept answers until 31/05/2025.
-
 ## Personal information (mandatory, private)
 
 Please provide your data below. Your answers are mandatory and will be kept private.
