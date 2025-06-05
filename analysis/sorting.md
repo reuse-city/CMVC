@@ -2,6 +2,11 @@
 
 Processes for a first-layer of sorting and assessment of the potential reuse value of goods and materials.
 
+**TODO**
+
+- [ ] Re-contextualise [../background](background research) - particularly expanding the [graph on repair processes](../background/process.png).
+- [ ] Invite more participants to fill the survey.
+
 ## 1. Visual inspection
 
 - Cleanliness. Indicator of
