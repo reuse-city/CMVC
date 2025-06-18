@@ -2,11 +2,6 @@
 
 v 0.1 - 2025-06-18
 
-## Citizen Science
-
-As part of the citizen science project Circular Material Valuer Curriculum, we are conducting an visits and interviews to learn from people experienced in the activities of Material Valuers.
-
-Please read the Participant Information below. If you understand and agree with the following, please date and sign this sheet. 
 
 ## Participant Information
 
