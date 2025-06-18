@@ -1,7 +1,7 @@
 # Online Survey - Participant Information
 
 
-v 0.3 - 2025-04-17
+v 0.3 - 2025-06-18
 
 # Material Valuer - Online Survey
 
@@ -37,7 +37,7 @@ You will reply to the questions on the online form. Your answers will be collect
 
 You can expect to better understand what you do and how it relates to the emerging professional role of Circular Material Valuer. You will also have the option to join an online discussion group on the reuse of materials with participants from around the world.
 
-The information acquired by the researcher team will help GIG create a curriculum and further educational projects aiming at material handling practices more beneficial to society at large, facing issues of economic inequality and environmental impact. All the outputs will be published with open licences.
+The information acquired by the research team will help GIG create a curriculum and further educational projects aiming at material handling practices more beneficial to society at large, facing issues of economic inequality and environmental impact. All the outputs will be published with open licences.
 
 ### Will my taking part in this project be kept confidential?
 
