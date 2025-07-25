@@ -98,12 +98,12 @@ For the purposes of the workshop, participants were asked to temporarily leave a
 
 The participants formed two groups to discuss the first three areas, then the other three, and document their discussion on flipchart pages. Photos are below.
 
-- [01](01.jpg)
-- [02](02.jpg)
-- [03](03.jpg)
-- [04](04.jpg)
-- [05](05.jpg)
-- [06](06.jpg)
+![01](01.jpg)
+![02](02.jpg)
+![03](03.jpg)
+![04](04.jpg)
+![05](05.jpg)
+![06](06.jpg)
 
 **Quick note by Felipe:**
 
