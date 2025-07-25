@@ -10,7 +10,7 @@ The in-person workshop was co-hosted by Felipe Schmidt Fonseca (GIG) and Corinna
 
 Another 8 participants were present.
 
-## I. Structure of the workshop
+## Structure of the workshop
 
 1. Introductions
 2. Presentation - CMVC background
