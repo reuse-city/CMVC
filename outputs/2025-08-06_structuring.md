@@ -1,6 +1,7 @@
-Right, let's break down the outputs for the Circular Material Valuer Project, focusing on the curriculum and a summary of the activities undertaken.
+### Planning: Output Structure
 
-### Outputs of the Circular Material Valuer Project
+**[Outputs](README.md) > Structuring**
+
 
 The Circular Material Valuer Curriculum (CMVC) project is a **citizen science initiative** that aims to understand the skills, experience, and sensibility required to extend the lifespan of unused or discarded goods. It's a collaborative effort by GIG and the Reuse City studio, supported by the Hans Sauer Stiftung. The project has been engaged in **participatory design activities** from April to September 2025 to develop an openly licensed curriculum.
 

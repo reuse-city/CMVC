@@ -1,6 +1,6 @@
 # Analysis of CMVC Fieldwork and Research Activities
 
-**[Analysis] > Fieldwork**
+**[Analysis](README.md) > Fieldwork**
 
 This document synthesizes the key insights and observations gathered during the [fieldwork](../fieldwork) and [background research](../background) phases of the Circular Material Valuer Curriculum (CMVC) project. It moves beyond a simple chronological account of activities to present a thematic analysis of the core tensions, challenges, and opportunities identified by project participants and through on-the-ground observation.
 
