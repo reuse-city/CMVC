@@ -14,4 +14,16 @@
 	- [2](https://tiche-academy.eu/portfolio/r2-circular-skills-catcher/)
 	- [3](https://tiche-academy.eu/portfolio/r3-setting-the-european-academy-on-circular-economy-design-and-development-of-the-global-framework-of-services/)
 
+
+## Agents Valoristes (FR)
+
+- [Agent valoriste : un métier qui donne une seconde vie aux objets de tous les jours
+](https://www.francetravail.fr/actualites/le-dossier/environnement/le-secteur-de-la-collecte-tri-re/agent-valoriste.html)
+- [Formation Agent·e Valoriste des biens de consommation courante](https://www.lapetiterockette.org/formation-agent%C2%B7e-valoriste-des-biens-de-consommation-courante/)
+- [Le métier d'agente valoriste](https://www.youtube.com/watch?v=PifnlIhAcHA)
+- [Agent/e valoriste](https://ideo.bretagne.bzh/metiers/agente-valoriste)
+
+
+
+
 **See also** the [GIG Circularity Group](https://www.zotero.org/groups/6015772/gig_circular_society/items/LIBVNYUT/item-list) on Zotero.
