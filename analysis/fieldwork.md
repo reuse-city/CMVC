@@ -4,6 +4,14 @@
 
 This document synthesizes the key insights and observations gathered during the [fieldwork](../fieldwork) and [background research](../background) phases of the Circular Material Valuer Curriculum (CMVC) project. It moves beyond a simple chronological account of activities to present a thematic analysis of the core tensions, challenges, and opportunities identified by project participants and through on-the-ground observation.
 
+## TODO
+
+Observations on
+
+- the immense scale of textile sorting
+- the logistical challenges of temporary spaces for reuse initiatives
+- the role of "Libraries of Things" in sustainable fashion and design
+
 ### **Synthesis of Core Findings**
 
 The project's fieldwork consistently revealed a number of central themes. These themes are fundamentally about the tension between two models of circularity: a top-down, industrial approach and a grassroots, community-based one. As one participant noted, the project's initial goal was to understand **"how to train people to identify items that can still be reused."** This simple, practical question led to a deeper investigation of the systemic, technical, social, and political dimensions of material reuse.
