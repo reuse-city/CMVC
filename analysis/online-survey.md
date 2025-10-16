@@ -2,7 +2,7 @@
 
 **[Analysis](README.md) > Online Survey**
 
-The Online Survey had a limited number of responses (6). Survey results show a few key themes and perspectives from the participants.
+The Online Survey had eight responses in total. Survey results show a few key themes and perspectives from the participants.
 
 The survey highlighted the diverse motivations of those involved in material reuse, combining professional and personal interests. A common sentiment was the importance of the educational aspect and the need for more structured knowledge sharing.
 
