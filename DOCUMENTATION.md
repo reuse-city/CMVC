@@ -4,6 +4,6 @@ CMVC is a participatory and open research project. As such, it is committed to p
 
 - A [GitHub repository](https://github.com/reuse-city/CMVC) for raw data, anonymised conversation transcripts and research logs.
 - An evolving [page on the Reuse City wiki](https://wiki.reuse.city/en/projects/circular-material-valuer-curriculum).
-- A project page and blog posts on the GIG website.
+- A project page and blog posts on the [GIG website](https://globalinnovationgathering.org).
 
 The final results such as the Curriculum and other relevant public documentation will be released with open licenses, on platforms to be defined with the participants and partner organisations. The project will also have ongoing channels of communication with participants, decided with them.
