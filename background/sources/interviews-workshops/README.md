@@ -1,6 +1,6 @@
 # Interviews and Workshops
 
-The subfolders here contain transcripts from interviews and workshops performed during two initial phases of research:
+The subfolders here contain transcripts from interviews and workshops performed during past projects:
 
 - An [ecosystem mapping](ecosystem) based on conversations about activities and organisations related to the reuse of materials in urban contexts in the UK:
 	- A person who purchases or hires goods for TV and movie production.
