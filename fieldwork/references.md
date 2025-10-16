@@ -1,10 +1,5 @@
 # References
 
+References collected during the project were added to the GIG Circularity group on Zotero:
 
-**Industry Report: Measuring Circular Impact – Methodology and Guide for Practitioners** - UNDRESS Circularity
-
-Report available [here](https://www.circularity.me/undress-circularity-market-report-2-assessing-industry/?mc_cid=d76fa59d03&mc_eid=64f1217414).
-
-Highlights:
-
-- [Circular System Map: Second-hand Sales](https://www.circularity.me/wp-content/uploads/2025/04/Measuring-Circular-Impact-Circularity-Industry-Report.pdf#page=22) (page 22). See also notes on grading, pages 24, 32, 42-43. 
+- [https://www.zotero.org/groups/6015772/gig_circular_society/items/LIBVNYUT/item-list](https://www.zotero.org/groups/6015772/gig_circular_society/items/LIBVNYUT/item-list)
