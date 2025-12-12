@@ -8,6 +8,7 @@ Between April and September 2025, the project conducted participatory design act
 - [Participatory Fieldwork](fieldwork).
 - [Analysis and compilation](analysis).
 - [Publication of results and outputs](outputs).
+- Project [contributors](contributors.md).
 
 An open [documentation strategy](DOCUMENTATION.md) will be in place to ensure openness and public access.
 
