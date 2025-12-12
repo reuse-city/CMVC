@@ -11,5 +11,5 @@ Among them, the following gave express consent to be mentioned as participants:
 
 - Corinna Vosse, [Kunst-Stoffe Berlin](https://kunst-stoffe-berlin.de/)
 - Mathew Lubari, [Community Creativity for Development (CC4D)](https://cc4d.tech/)
-- Saad Chinoy, [SpudnikLab](https://spudniklab.com/)
+- Saad Chinoy, [Global Innovation Gathering](https://globalinnovationgathering.org) / [Edible Makerspace](https://ediblemakerspace.com/)
 
